@@ -1,7 +1,7 @@
 # data-viz-projects
 
 
-This repository contains my Data Visualization projects ranging from **Python, Tableau, Excel, Power BI, Gephi and R.**
+This repository contains my Data Visualization projects ranging from ***Python, Tableau, Excel, Power BI, Gephi and R.***
 
 ----
 ***Here is my [LinkedIn](https://www.linkedin.com/in/simar-bhuee/)***
