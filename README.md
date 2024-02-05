@@ -1,7 +1,7 @@
 # data-viz-projects
 
 
-This repository contains my Data Visualization projects ranging from **SQL, Python, Tableau, Excel, Power BI and R.**
+This repository contains my Data Visualization projects ranging from **SQL, Python, Tableau, Excel, Power BI, Gephi and R.**
 
 ----
 ***Here is my [LinkedIn](https://www.linkedin.com/in/simar-bhuee/)***
@@ -50,3 +50,65 @@ This repository contains my Data Visualization projects ranging from **SQL, Pyth
        - Story Preview:
     
   <img align="right"> ![](https://github.com/simar-bhuee/data-viz-projects/blob/main/images/Natural_Disasters_Preview.png)
+
+
+- [x] **Tableau and R**
+- Integrated Analysis with R (k-means clustering) with Titanic Data
+  - *See R Code [here](https://github.com/simar-bhuee/data-viz-projects/blob/main/Kmean_Titanic.R)*
+  
+    - Worksheet Preview:
+    
+  <img align="right"> ![](https://github.com/simar-bhuee/data-viz-projects/blob/main/images/Titanic_Preview.png)
+
+
+- [x] **Tableau**
+- Commodity Yield Data in California Counties
+  - Using small multiples to visualize data
+
+    - *See Tableau Workbook [here](https://public.tableau.com/app/profile/simar.bhuee/viz/Crop_Workbook/SmallMultiplesTopPopularStatesSimarBhuee19761980?publish=yes)*
+
+       - Story Preview:
+    
+  <img align="right"> ![](https://github.com/simar-bhuee/data-viz-projects/blob/main/images/Crop_Preview.png)
+
+
+- [x] **Gephi**
+- Social Network Vizualization
+
+    - *See Gephi File [here](https://github.com/simar-bhuee/data-viz-projects/blob/main/Website.Gephi.gephi)*
+    - *See Gephi Graph [here](https://github.com/simar-bhuee/data-viz-projects/blob/main/Website.gexf.gexf)*
+  
+       - Gephi Viz Preview:
+    
+  <img align="right"> ![](https://github.com/simar-bhuee/data-viz-projects/blob/main/images/website_preview.png)
+
+
+- [x] **D3**
+- Using D3 to vizualize University Food Data
+
+    - *See HTML File [here](https://github.com/simar-bhuee/data-viz-projects/blob/main/Food_Court_D3.html)*
+  
+       - Resulting Vizualization:
+    
+  <img align="right"> ![](https://github.com/simar-bhuee/data-viz-projects/blob/main/images/Food_Court_Preview.png)*
+
+
+- [x] **Python**
+- Declarative Vizualization usinf COVID-19 data
+
+    - *See Python Code [here]([https://github.com/simar-bhuee/data-viz-projects/blob/main/Food_Court_D3.html](https://github.com/simar-bhuee/data-viz-projects/blob/main/Covid_Data.ipynb))*
+  
+       - Last Resulting Vizualization:
+    
+  <img align="right"> ![](https://github.com/simar-bhuee/data-viz-projects/blob/main/images/Covid_Preview.png)*
+
+
+- [x] **Tableau**
+- Vizualizing food court data to find popular food items
+  - Using treemaps to visualize data
+
+    - *See Tableau Workbook [here](https://public.tableau.com/app/profile/simar.bhuee/viz/Food_Court_Treemaps/Treemaps)*
+
+       - Story Preview:
+    
+  <img align="right"> ![](https://github.com/simar-bhuee/data-viz-projects/blob/main/images/Uni_Food_Court_Preview.png)
