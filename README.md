@@ -1,7 +1,7 @@
 # data-viz-projects
 
 
-This repository contains my Data Visualization projects ranging from **SQL, Python, Tableau, Excel, Power BI, Gephi and R.**
+This repository contains my Data Visualization projects ranging from **Python, Tableau, Excel, Power BI, Gephi and R.**
 
 ----
 ***Here is my [LinkedIn](https://www.linkedin.com/in/simar-bhuee/)***
@@ -56,7 +56,7 @@ This repository contains my Data Visualization projects ranging from **SQL, Pyth
 - Integrated Analysis with R (k-means clustering) with Titanic Data
   - *See R Code [here](https://github.com/simar-bhuee/data-viz-projects/blob/main/Kmean_Titanic.R)*
   
-    - Worksheet Preview:
+    - Tableau Worksheet Preview:
     
   <img align="right"> ![](https://github.com/simar-bhuee/data-viz-projects/blob/main/images/Titanic_Preview.png)
 
@@ -94,7 +94,7 @@ This repository contains my Data Visualization projects ranging from **SQL, Pyth
 
 
 - [x] **Python**
-- Declarative Vizualization usinf COVID-19 data
+- Declarative Vizualization using COVID-19 data
 
     - *See Python Code [here]([https://github.com/simar-bhuee/data-viz-projects/blob/main/Food_Court_D3.html](https://github.com/simar-bhuee/data-viz-projects/blob/main/Covid_Data.ipynb))*
   
